@@ -1,0 +1,16 @@
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\bin\Debug\DataAcess.dll.config
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\bin\Debug\DataAcess.dll
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\bin\Debug\DataAcess.pdb
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\bin\Debug\EntityFramework.dll
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\bin\Debug\EntityFramework.xml
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\obj\Debug\DataAcess.csprojResolveAssemblyReference.cache
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\obj\Debug\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\obj\Debug\DataAcess.csproj.CopyComplete
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\obj\Debug\DataAcess.dll
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\obj\Debug\DataAcess.pdb
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\битард\source\repos\virusBlockadaTestTask\DataAcess\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
